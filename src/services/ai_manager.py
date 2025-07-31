@@ -347,43 +347,48 @@ class AIManager:
                 provider['error_count'] = 0
             logger.info("🔄 Reset erros de todos os provedores")
 
-    def _clean_ai_response(self, response: str) -> str:
-        """Limpa resposta da IA para extrair JSON puro"""
-        if not response:
-            return response
-
-        # Remove markdown de código JSON
-        if "```json" in response:
-            start = response.find("```json") + 7
-            end = response.rfind("```")
-            if end > start:
-                return response[start:end].strip()
-
-        # Remove qualquer markdown de código
-        elif "```" in response:
-            start = response.find("```") + 3
-            end = response.rfind("```")
-            if end > start:
-                return response[start:end].strip()
-
-        # Remove explicações antes do JSON
-        lines = response.split('\n')
-        json_started = False
-        cleaned_lines = []
-
-        for line in lines:
-            line = line.strip()
-            if line.startswith('{') or json_started:
-                json_started = True
-                cleaned_lines.append(line)
-            elif line.startswith('}'):
-                cleaned_lines.append(line)
-                break
-
-        if cleaned_lines:
-            return '\n'.join(cleaned_lines)
-
-        return response.strip()
+    def clean_ai_response(self, response: str) -> str:
+        """
+        Remove markdown e extrai apenas o JSON.
+        """
+        clean = response.strip()
+        try:
+            # Tenta carregar como JSON diretamente
+            return json.dumps(json.loads(clean))
+        except json.JSONDecodeError:
+            # Se falhar, tenta extrair o bloco JSON
+            json_start = clean.find("{")
+            json_end = clean.rfind("}")
+            if json_start != -1 and json_end != -1 and json_end > json_start:
+                json_str = clean[json_start : json_end + 1]
+                try:
+                    return json.dumps(json.loads(json_str))
+                except json.JSONDecodeError:
+                    pass
+            
+            # Se ainda falhar, tenta extrair o bloco JSON com markdown
+            if clean.startswith("```json"):
+                clean = clean[7:]
+                end = clean.rfind("```")
+                if end != -1:
+                    clean = clean[:end]
+                try:
+                    return json.dumps(json.loads(clean.strip()))
+                except json.JSONDecodeError:
+                    pass
+            elif clean.startswith("```"):
+                clean = clean[3:]
+                end = clean.rfind("```")
+                if end != -1:
+                    clean = clean[:end]
+                try:
+                    return json.dumps(json.loads(clean.strip()))
+                except json.JSONDecodeError:
+                    pass
+        
+        # Se tudo falhar, retorna uma string JSON vazia ou um JSON de erro
+        logger.warning(f"Não foi possível extrair JSON válido da resposta: {response[:100]}...")
+        return json.dumps({"error": "Não foi possível extrair JSON válido", "original_response_snippet": response[:200]})
 
 # Instância global
 ai_manager = AIManager()

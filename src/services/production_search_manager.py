@@ -356,7 +356,7 @@ class ProductionSearchManager:
                 'lr': 'lang_pt',
                 'gl': 'br',
                 'safe': 'off',
-                'dateRestrict': 'm6',
+                'dateRestrict': 'y1',
                 'sort': 'date',
                 'fields': 'items(title,link,snippet,displayLink)'
             }

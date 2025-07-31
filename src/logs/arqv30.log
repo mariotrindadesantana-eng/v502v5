@@ -1,0 +1,198 @@
+2025-07-31 19:43:09,704 - services.ai_manager - INFO - ✅ Gemini Flash inicializado com sucesso
+2025-07-31 19:43:09,752 - services.ai_manager - INFO - ✅ OpenAI inicializado com sucesso
+2025-07-31 19:43:09,752 - services.ai_manager - INFO - ✅ HuggingFace inicializado com sucesso
+2025-07-31 19:43:09,752 - services.ai_manager - INFO - AI Manager inicializado com 3 provedores disponíveis
+2025-07-31 19:43:10,083 - services.content_quality_validator - INFO - Content Quality Validator inicializado
+2025-07-31 19:43:10,137 - services.production_search_manager - INFO - 🚀 Production Search Manager inicializado
+2025-07-31 19:43:10,137 - services.production_search_manager - INFO - 📊 Provedores habilitados: google, serper, bing, duckduckgo
+2025-07-31 19:43:10,142 - services.content_extractor - INFO - Content Extractor inicializado com múltiplas estratégias
+2025-07-31 19:43:10,149 - services.production_content_extractor - WARNING - ⚠️ ProductionContentExtractor está DEPRECATED - usando RobustContentExtractor
+2025-07-31 19:43:10,153 - services.mental_drivers_architect - INFO - Mental Drivers Architect inicializado com 19 drivers universais
+2025-07-31 19:43:10,156 - services.visual_proofs_generator - INFO - Visual Proofs Generator inicializado com biblioteca de experimentos
+2025-07-31 19:43:10,163 - services.anti_objection_system - INFO - Anti-Objection System inicializado com arsenal completo
+2025-07-31 19:43:10,168 - services.pre_pitch_architect - INFO - Pre-Pitch Architect inicializado
+2025-07-31 19:43:10,176 - services.future_prediction_engine - INFO - Future Prediction Engine inicializado
+2025-07-31 19:43:10,176 - services.ultra_detailed_analysis_engine - INFO - 🚀 Ultra Detailed Analysis Engine GIGANTE inicializado - ZERO TOLERÂNCIA A SIMULAÇÃO
+2025-07-31 19:43:10,176 - services.enhanced_analysis_engine - INFO - Enhanced Analysis Engine inicializado - Sistemas: {'ai_manager': True, 'search_manager': True, 'content_extractor': True}
+2025-07-31 19:45:02,251 - services.ai_manager - INFO - ✅ Gemini Flash inicializado com sucesso
+2025-07-31 19:45:02,457 - services.ai_manager - INFO - ✅ OpenAI inicializado com sucesso
+2025-07-31 19:45:02,457 - services.ai_manager - INFO - ✅ HuggingFace inicializado com sucesso
+2025-07-31 19:45:02,457 - services.ai_manager - INFO - AI Manager inicializado com 3 provedores disponíveis
+2025-07-31 19:45:03,341 - services.content_quality_validator - INFO - Content Quality Validator inicializado
+2025-07-31 19:45:03,343 - services.production_search_manager - INFO - 🚀 Production Search Manager inicializado
+2025-07-31 19:45:03,343 - services.production_search_manager - INFO - 📊 Provedores habilitados: google, serper, bing, duckduckgo
+2025-07-31 19:45:03,344 - services.content_extractor - INFO - Content Extractor inicializado com múltiplas estratégias
+2025-07-31 19:45:03,345 - services.production_content_extractor - WARNING - ⚠️ ProductionContentExtractor está DEPRECATED - usando RobustContentExtractor
+2025-07-31 19:45:03,345 - services.mental_drivers_architect - INFO - Mental Drivers Architect inicializado com 19 drivers universais
+2025-07-31 19:45:03,346 - services.visual_proofs_generator - INFO - Visual Proofs Generator inicializado com biblioteca de experimentos
+2025-07-31 19:45:03,347 - services.anti_objection_system - INFO - Anti-Objection System inicializado com arsenal completo
+2025-07-31 19:45:03,347 - services.pre_pitch_architect - INFO - Pre-Pitch Architect inicializado
+2025-07-31 19:45:03,348 - services.future_prediction_engine - INFO - Future Prediction Engine inicializado
+2025-07-31 19:45:03,348 - services.ultra_detailed_analysis_engine - INFO - 🚀 Ultra Detailed Analysis Engine GIGANTE inicializado - ZERO TOLERÂNCIA A SIMULAÇÃO
+2025-07-31 19:45:03,349 - services.enhanced_analysis_engine - INFO - Enhanced Analysis Engine inicializado - Sistemas: {'ai_manager': True, 'search_manager': True, 'content_extractor': True}
+2025-07-31 19:46:06,827 - services.ai_manager - INFO - ✅ Gemini Flash inicializado com sucesso
+2025-07-31 19:46:06,868 - services.ai_manager - INFO - ✅ OpenAI inicializado com sucesso
+2025-07-31 19:46:06,868 - services.ai_manager - INFO - ✅ HuggingFace inicializado com sucesso
+2025-07-31 19:46:06,868 - services.ai_manager - INFO - AI Manager inicializado com 3 provedores disponíveis
+2025-07-31 19:46:07,344 - services.content_quality_validator - INFO - Content Quality Validator inicializado
+2025-07-31 19:46:07,351 - services.production_search_manager - INFO - 🚀 Production Search Manager inicializado
+2025-07-31 19:46:07,352 - services.production_search_manager - INFO - 📊 Provedores habilitados: google, serper, bing, duckduckgo
+2025-07-31 19:46:07,360 - services.content_extractor - INFO - Content Extractor inicializado com múltiplas estratégias
+2025-07-31 19:46:07,366 - services.production_content_extractor - WARNING - ⚠️ ProductionContentExtractor está DEPRECATED - usando RobustContentExtractor
+2025-07-31 19:46:07,367 - services.mental_drivers_architect - INFO - Mental Drivers Architect inicializado com 19 drivers universais
+2025-07-31 19:46:07,368 - services.visual_proofs_generator - INFO - Visual Proofs Generator inicializado com biblioteca de experimentos
+2025-07-31 19:46:07,368 - services.anti_objection_system - INFO - Anti-Objection System inicializado com arsenal completo
+2025-07-31 19:46:07,369 - services.pre_pitch_architect - INFO - Pre-Pitch Architect inicializado
+2025-07-31 19:46:07,369 - services.future_prediction_engine - INFO - Future Prediction Engine inicializado
+2025-07-31 19:46:07,370 - services.ultra_detailed_analysis_engine - INFO - 🚀 Ultra Detailed Analysis Engine GIGANTE inicializado - ZERO TOLERÂNCIA A SIMULAÇÃO
+2025-07-31 19:46:07,370 - services.enhanced_analysis_engine - INFO - Enhanced Analysis Engine inicializado - Sistemas: {'ai_manager': True, 'search_manager': True, 'content_extractor': True}
+2025-07-31 19:46:08,369 - __main__ - INFO - 🔧 Iniciando ARQV30 Enhanced v2.0 em MODO DESENVOLVIMENTO
+2025-07-31 19:46:08,370 - __main__ - INFO - Servidor: http://0.0.0.0:5000
+2025-07-31 19:46:08,370 - __main__ - INFO - Encoding: UTF-8
+2025-07-31 19:46:08,370 - __main__ - INFO - Locale: ('C', 'UTF-8')
+2025-07-31 19:46:08,370 - __main__ - INFO - 🔍 Provedores de busca ativos: google, serper, bing, duckduckgo
+2025-07-31 19:46:08,399 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.119.130:5000
+2025-07-31 19:46:08,400 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 19:46:08,400 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 19:46:10,392 - services.ai_manager - INFO - ✅ Gemini Flash inicializado com sucesso
+2025-07-31 19:46:10,448 - services.ai_manager - INFO - ✅ OpenAI inicializado com sucesso
+2025-07-31 19:46:10,448 - services.ai_manager - INFO - ✅ HuggingFace inicializado com sucesso
+2025-07-31 19:46:10,449 - services.ai_manager - INFO - AI Manager inicializado com 3 provedores disponíveis
+2025-07-31 19:46:10,847 - services.content_quality_validator - INFO - Content Quality Validator inicializado
+2025-07-31 19:46:10,850 - services.production_search_manager - INFO - 🚀 Production Search Manager inicializado
+2025-07-31 19:46:10,850 - services.production_search_manager - INFO - 📊 Provedores habilitados: google, serper, bing, duckduckgo
+2025-07-31 19:46:10,853 - services.content_extractor - INFO - Content Extractor inicializado com múltiplas estratégias
+2025-07-31 19:46:10,854 - services.production_content_extractor - WARNING - ⚠️ ProductionContentExtractor está DEPRECATED - usando RobustContentExtractor
+2025-07-31 19:46:10,854 - services.mental_drivers_architect - INFO - Mental Drivers Architect inicializado com 19 drivers universais
+2025-07-31 19:46:10,856 - services.visual_proofs_generator - INFO - Visual Proofs Generator inicializado com biblioteca de experimentos
+2025-07-31 19:46:10,857 - services.anti_objection_system - INFO - Anti-Objection System inicializado com arsenal completo
+2025-07-31 19:46:10,857 - services.pre_pitch_architect - INFO - Pre-Pitch Architect inicializado
+2025-07-31 19:46:10,858 - services.future_prediction_engine - INFO - Future Prediction Engine inicializado
+2025-07-31 19:46:10,858 - services.ultra_detailed_analysis_engine - INFO - 🚀 Ultra Detailed Analysis Engine GIGANTE inicializado - ZERO TOLERÂNCIA A SIMULAÇÃO
+2025-07-31 19:46:10,858 - services.enhanced_analysis_engine - INFO - Enhanced Analysis Engine inicializado - Sistemas: {'ai_manager': True, 'search_manager': True, 'content_extractor': True}
+2025-07-31 19:46:11,890 - __main__ - INFO - 🔧 Iniciando ARQV30 Enhanced v2.0 em MODO DESENVOLVIMENTO
+2025-07-31 19:46:11,891 - __main__ - INFO - Servidor: http://0.0.0.0:5000
+2025-07-31 19:46:11,892 - __main__ - INFO - Encoding: UTF-8
+2025-07-31 19:46:11,892 - __main__ - INFO - Locale: ('C', 'UTF-8')
+2025-07-31 19:46:11,892 - __main__ - INFO - 🔍 Provedores de busca ativos: google, serper, bing, duckduckgo
+2025-07-31 19:46:11,895 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 19:46:11,896 - werkzeug - INFO -  * Debugger PIN: 317-738-436
+2025-07-31 19:46:12,106 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:46:12] "GET / HTTP/1.1" 200 -
+2025-07-31 19:46:12,376 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:46:12] "GET /static/css/main.css HTTP/1.1" 200 -
+2025-07-31 19:46:12,522 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:46:12] "GET /static/css/components.css HTTP/1.1" 200 -
+2025-07-31 19:46:12,676 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:46:12] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+2025-07-31 19:46:12,691 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:46:12] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-07-31 19:46:12,818 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:46:12] "GET /static/js/upload.js HTTP/1.1" 200 -
+2025-07-31 19:46:12,834 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:46:12] "GET /static/js/analysis.js HTTP/1.1" 200 -
+2025-07-31 19:46:13,543 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:46:13] "GET /api/extractor_stats HTTP/1.1" 200 -
+2025-07-31 19:48:47,951 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:48:47] "[33mPOST /api/analyze HTTP/1.1[0m" 404 -
+2025-07-31 19:48:58,152 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:48:58] "[33mPOST /api/analyze HTTP/1.1[0m" 404 -
+2025-07-31 19:49:01,454 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:49:01] "GET /api/extractor_stats HTTP/1.1" 200 -
+2025-07-31 19:49:01,599 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:49:01] "[33mPOST /api/analyze HTTP/1.1[0m" 404 -
+2025-07-31 19:49:10,438 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:49:10] "[33mPOST /api/test_search HTTP/1.1[0m" 404 -
+2025-07-31 19:49:10,447 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:49:10] "[33mPOST /api/analyze HTTP/1.1[0m" 404 -
+2025-07-31 19:49:17,580 - werkzeug - INFO -  * Detected change in '/home/runner/workspace/src/run.py', reloading
+2025-07-31 19:49:17,582 - __main__ - INFO - 🧹 Executando limpeza final...
+2025-07-31 19:49:18,400 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 19:49:20,245 - services.ai_manager - INFO - ✅ Gemini Flash inicializado com sucesso
+2025-07-31 19:49:20,308 - services.ai_manager - INFO - ✅ OpenAI inicializado com sucesso
+2025-07-31 19:49:20,311 - services.ai_manager - INFO - ✅ HuggingFace inicializado com sucesso
+2025-07-31 19:49:20,312 - services.ai_manager - INFO - AI Manager inicializado com 3 provedores disponíveis
+2025-07-31 19:49:20,593 - services.content_quality_validator - INFO - Content Quality Validator inicializado
+2025-07-31 19:49:20,595 - services.production_search_manager - INFO - 🚀 Production Search Manager inicializado
+2025-07-31 19:49:20,595 - services.production_search_manager - INFO - 📊 Provedores habilitados: google, serper, bing, duckduckgo
+2025-07-31 19:49:20,596 - services.content_extractor - INFO - Content Extractor inicializado com múltiplas estratégias
+2025-07-31 19:49:20,597 - services.production_content_extractor - WARNING - ⚠️ ProductionContentExtractor está DEPRECATED - usando RobustContentExtractor
+2025-07-31 19:49:20,608 - services.mental_drivers_architect - INFO - Mental Drivers Architect inicializado com 19 drivers universais
+2025-07-31 19:49:20,609 - services.visual_proofs_generator - INFO - Visual Proofs Generator inicializado com biblioteca de experimentos
+2025-07-31 19:49:20,610 - services.anti_objection_system - INFO - Anti-Objection System inicializado com arsenal completo
+2025-07-31 19:49:20,611 - services.pre_pitch_architect - INFO - Pre-Pitch Architect inicializado
+2025-07-31 19:49:20,612 - services.future_prediction_engine - INFO - Future Prediction Engine inicializado
+2025-07-31 19:49:20,612 - services.ultra_detailed_analysis_engine - INFO - 🚀 Ultra Detailed Analysis Engine GIGANTE inicializado - ZERO TOLERÂNCIA A SIMULAÇÃO
+2025-07-31 19:49:20,612 - services.enhanced_analysis_engine - INFO - Enhanced Analysis Engine inicializado - Sistemas: {'ai_manager': True, 'search_manager': True, 'content_extractor': True}
+2025-07-31 19:49:21,599 - __main__ - INFO - 🔧 Iniciando ARQV30 Enhanced v2.0 em MODO DESENVOLVIMENTO
+2025-07-31 19:49:21,601 - __main__ - INFO - Servidor: http://0.0.0.0:5000
+2025-07-31 19:49:21,601 - __main__ - INFO - Encoding: UTF-8
+2025-07-31 19:49:21,602 - __main__ - INFO - Locale: ('C', 'UTF-8')
+2025-07-31 19:49:21,602 - __main__ - INFO - 🔍 Provedores de busca ativos: google, serper, bing, duckduckgo
+2025-07-31 19:49:21,607 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 19:49:21,607 - werkzeug - INFO -  * Debugger PIN: 317-738-436
+2025-07-31 19:49:22,949 - __main__ - INFO - 🧹 Executando limpeza final...
+2025-07-31 19:49:25,894 - services.ai_manager - INFO - ✅ Gemini Flash inicializado com sucesso
+2025-07-31 19:49:25,960 - services.ai_manager - INFO - ✅ OpenAI inicializado com sucesso
+2025-07-31 19:49:25,960 - services.ai_manager - INFO - ✅ HuggingFace inicializado com sucesso
+2025-07-31 19:49:25,960 - services.ai_manager - INFO - AI Manager inicializado com 3 provedores disponíveis
+2025-07-31 19:49:26,335 - services.content_quality_validator - INFO - Content Quality Validator inicializado
+2025-07-31 19:49:26,337 - services.production_search_manager - INFO - 🚀 Production Search Manager inicializado
+2025-07-31 19:49:26,337 - services.production_search_manager - INFO - 📊 Provedores habilitados: google, serper, bing, duckduckgo
+2025-07-31 19:49:26,337 - services.content_extractor - INFO - Content Extractor inicializado com múltiplas estratégias
+2025-07-31 19:49:26,338 - services.production_content_extractor - WARNING - ⚠️ ProductionContentExtractor está DEPRECATED - usando RobustContentExtractor
+2025-07-31 19:49:26,339 - services.mental_drivers_architect - INFO - Mental Drivers Architect inicializado com 19 drivers universais
+2025-07-31 19:49:26,340 - services.visual_proofs_generator - INFO - Visual Proofs Generator inicializado com biblioteca de experimentos
+2025-07-31 19:49:26,342 - services.anti_objection_system - INFO - Anti-Objection System inicializado com arsenal completo
+2025-07-31 19:49:26,342 - services.pre_pitch_architect - INFO - Pre-Pitch Architect inicializado
+2025-07-31 19:49:26,343 - services.future_prediction_engine - INFO - Future Prediction Engine inicializado
+2025-07-31 19:49:26,344 - services.ultra_detailed_analysis_engine - INFO - 🚀 Ultra Detailed Analysis Engine GIGANTE inicializado - ZERO TOLERÂNCIA A SIMULAÇÃO
+2025-07-31 19:49:26,344 - services.enhanced_analysis_engine - INFO - Enhanced Analysis Engine inicializado - Sistemas: {'ai_manager': True, 'search_manager': True, 'content_extractor': True}
+2025-07-31 19:49:27,355 - __main__ - INFO - 🔧 Iniciando ARQV30 Enhanced v2.0 em MODO DESENVOLVIMENTO
+2025-07-31 19:49:27,356 - __main__ - INFO - Servidor: http://0.0.0.0:5000
+2025-07-31 19:49:27,356 - __main__ - INFO - Encoding: UTF-8
+2025-07-31 19:49:27,356 - __main__ - INFO - Locale: ('C', 'UTF-8')
+2025-07-31 19:49:27,356 - __main__ - INFO - 🔍 Provedores de busca ativos: google, serper, bing, duckduckgo
+2025-07-31 19:49:27,364 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.119.130:5000
+2025-07-31 19:49:27,365 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 19:49:27,365 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 19:49:28,878 - services.ai_manager - INFO - ✅ Gemini Flash inicializado com sucesso
+2025-07-31 19:49:28,926 - services.ai_manager - INFO - ✅ OpenAI inicializado com sucesso
+2025-07-31 19:49:28,926 - services.ai_manager - INFO - ✅ HuggingFace inicializado com sucesso
+2025-07-31 19:49:28,926 - services.ai_manager - INFO - AI Manager inicializado com 3 provedores disponíveis
+2025-07-31 19:49:29,248 - services.content_quality_validator - INFO - Content Quality Validator inicializado
+2025-07-31 19:49:29,249 - services.production_search_manager - INFO - 🚀 Production Search Manager inicializado
+2025-07-31 19:49:29,250 - services.production_search_manager - INFO - 📊 Provedores habilitados: google, serper, bing, duckduckgo
+2025-07-31 19:49:29,250 - services.content_extractor - INFO - Content Extractor inicializado com múltiplas estratégias
+2025-07-31 19:49:29,251 - services.production_content_extractor - WARNING - ⚠️ ProductionContentExtractor está DEPRECATED - usando RobustContentExtractor
+2025-07-31 19:49:29,251 - services.mental_drivers_architect - INFO - Mental Drivers Architect inicializado com 19 drivers universais
+2025-07-31 19:49:29,252 - services.visual_proofs_generator - INFO - Visual Proofs Generator inicializado com biblioteca de experimentos
+2025-07-31 19:49:29,253 - services.anti_objection_system - INFO - Anti-Objection System inicializado com arsenal completo
+2025-07-31 19:49:29,253 - services.pre_pitch_architect - INFO - Pre-Pitch Architect inicializado
+2025-07-31 19:49:29,254 - services.future_prediction_engine - INFO - Future Prediction Engine inicializado
+2025-07-31 19:49:29,254 - services.ultra_detailed_analysis_engine - INFO - 🚀 Ultra Detailed Analysis Engine GIGANTE inicializado - ZERO TOLERÂNCIA A SIMULAÇÃO
+2025-07-31 19:49:29,254 - services.enhanced_analysis_engine - INFO - Enhanced Analysis Engine inicializado - Sistemas: {'ai_manager': True, 'search_manager': True, 'content_extractor': True}
+2025-07-31 19:49:30,193 - __main__ - INFO - 🔧 Iniciando ARQV30 Enhanced v2.0 em MODO DESENVOLVIMENTO
+2025-07-31 19:49:30,193 - __main__ - INFO - Servidor: http://0.0.0.0:5000
+2025-07-31 19:49:30,193 - __main__ - INFO - Encoding: UTF-8
+2025-07-31 19:49:30,193 - __main__ - INFO - Locale: ('C', 'UTF-8')
+2025-07-31 19:49:30,193 - __main__ - INFO - 🔍 Provedores de busca ativos: google, serper, bing, duckduckgo
+2025-07-31 19:49:30,199 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 19:49:30,200 - werkzeug - INFO -  * Debugger PIN: 401-165-968
+2025-07-31 19:49:30,437 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:49:30] "GET / HTTP/1.1" 200 -
+2025-07-31 19:49:30,883 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:49:30] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+2025-07-31 19:49:31,611 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:49:31] "GET /api/extractor_stats HTTP/1.1" 200 -
+2025-07-31 19:52:20,841 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:52:20] "GET / HTTP/1.1" 200 -
+2025-07-31 19:52:21,528 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:52:21] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+2025-07-31 19:52:21,939 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:52:21] "GET /api/extractor_stats HTTP/1.1" 200 -
+2025-07-31 19:52:30,900 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:52:30] "GET / HTTP/1.1" 200 -
+2025-07-31 19:52:31,068 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:52:31] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+2025-07-31 19:52:32,154 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:52:32] "GET /api/extractor_stats HTTP/1.1" 200 -
+2025-07-31 19:52:46,210 - routes.analysis - INFO - 🧪 Testando extração: https://g1.globo.com/tecnologia/
+2025-07-31 19:52:47,144 - services.robust_content_extractor - INFO - ✅ Conteúdo extraído com trafilatura: 1619 caracteres
+2025-07-31 19:52:47,146 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:52:47] "POST /api/test_extraction HTTP/1.1" 200 -
+2025-07-31 19:52:58,688 - routes.analysis - INFO - 🧪 Testando busca: mercado digital Brasil 2024
+2025-07-31 19:52:59,216 - services.production_search_manager - INFO - 🔍 Google API Response: 200
+2025-07-31 19:52:59,216 - services.production_search_manager - INFO - ✅ Google Custom Search: 2 resultados válidos
+2025-07-31 19:52:59,217 - services.production_search_manager - INFO - ✅ google: 2 resultados
+2025-07-31 19:52:59,448 - services.production_search_manager - INFO - ✅ Serper Search: 2 resultados
+2025-07-31 19:52:59,449 - services.production_search_manager - INFO - ✅ serper: 2 resultados
+2025-07-31 19:53:00,361 - services.production_search_manager - INFO - 🔍 Bing encontrou 10 elementos
+2025-07-31 19:53:00,362 - services.production_search_manager - INFO - ✅ Bing Scraping: 2 resultados válidos
+2025-07-31 19:53:00,363 - services.production_search_manager - INFO - ✅ bing: 2 resultados
+2025-07-31 19:53:00,416 - services.production_search_manager - INFO - 💾 Cache salvo para query: mercado digital Brasil 2024...
+2025-07-31 19:53:00,417 - services.production_search_manager - INFO - 🎯 Busca final: 5 resultados únicos de 3 provedores
+2025-07-31 19:53:00,418 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:53:00] "POST /api/test_search HTTP/1.1" 200 -
+2025-07-31 19:53:05,993 - werkzeug - INFO - 172.31.119.130 - - [31/Jul/2025 19:53:05] "GET /api/extractor_stats HTTP/1.1" 200 -
